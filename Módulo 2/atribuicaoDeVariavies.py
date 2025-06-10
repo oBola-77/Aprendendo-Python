@@ -7,10 +7,10 @@ preço = 9.99
 altura = 1.75
 
 if preço != altura:
-    print("xereca") #utilizando numeros com casas decimais (float)
+    print("Ta diferente hein") #utilizando numeros com casas decimais (float)
 
     nome = "Cleitu Rasta"
-    mensagem = "OLHA A PEDRA!"
+    mensagem = "\nOLHA A PEDRA!"
     print(nome + mensagem) #utilizando strings
 
     pode_ser_preso = True
